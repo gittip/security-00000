@@ -1,4 +1,1 @@
-Security
-========
-
-This is a private repo to track security-related issues.
+## https://github.com/gratipay/security-00000/issues/1
